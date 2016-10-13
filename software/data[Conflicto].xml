@@ -1,0 +1,89 @@
+<data>
+    <perfil-color>
+        <azul H="90" S="90" V="98" />
+        <amarillo H="33" S="102" V="165" />
+        <naranja H="11" S="140" V="180" />
+        <violeta H="155" S="75" V="105" />
+    </perfil-color>
+    <tablero>
+        <area max="3600" min="6000" />
+        <altura max="60" min="85" />
+        <ancho max="60" min="85" />
+        <filtro val="4" />
+    </tablero>
+    <carbeto name="car01" puerto="39">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="91" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+    <carbeto name="car02" puerto="54">
+        <adelante motorA="100" motorB="100" time="1060" />
+        <vueltaLeft motorA="91" motorB="90" time="955" />
+        <vueltaRight motorA="104" motorB="95" time="753" />
+    </carbeto>
+    <carbeto name="car03" puerto="45">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+    <carbeto name="car04" puerto="34">
+        <adelante motorA="87" motorB="90" time="1200" />
+        <vueltaLeft motorA="90" motorB="90" time="850" />
+        <vueltaRight motorA="105" motorB="95" time="647" />
+    </carbeto>
+    <carbeto name="car05" puerto="53">
+        <adelante motorA="87" motorB="90" time="1200" />
+        <vueltaLeft motorA="90" motorB="90" time="850" />
+        <vueltaRight motorA="105" motorB="95" time="647" />
+    </carbeto>
+    <carbeto name="car06" puerto="39">
+        <adelante motorA="87" motorB="90" time="1200" />
+        <vueltaLeft motorA="90" motorB="90" time="850" />
+        <vueltaRight motorA="105" motorB="95" time="647" />
+    </carbeto>
+    <carbeto name="car07" puerto="43">
+        <adelante motorA="87" motorB="90" time="1200" />
+        <vueltaLeft motorA="90" motorB="90" time="850" />
+        <vueltaRight motorA="105" motorB="95" time="657" />
+    </carbeto>
+    <carbeto name="car08" puerto="3">
+        <adelante motorA="87" motorB="90" time="1200" />
+        <vueltaLeft motorA="90" motorB="90" time="850" />
+        <vueltaRight motorA="105" motorB="95" time="657" />
+    </carbeto>
+    <carbeto name="car09" puerto="41">
+        <adelante motorA="87" motorB="90" time="1200" />
+        <vueltaLeft motorA="90" motorB="90" time="850" />
+        <vueltaRight motorA="105" motorB="95" time="657" />
+    </carbeto>
+    <carbeto name="car10" puerto="38">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+    <carbeto name="car11" puerto="45">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+    <carbeto name="car12" puerto="45">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+        <carbeto name="car13" puerto="45">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+        <carbeto name="car14" puerto="45">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+        <carbeto name="car15" puerto="45">
+        <adelante motorA="94" motorB="105" time="1120" />
+        <vueltaLeft motorA="90" motorB="90" time="905" />
+        <vueltaRight motorA="105" motorB="95" time="662" />
+    </carbeto>
+</data>
