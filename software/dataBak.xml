@@ -1,0 +1,23 @@
+<data>
+    <perfil-color>
+        <azul H="90" S="90" V="98" />
+        <amarillo H="33" S="102" V="165" />
+        <naranja H="11" S="140" V="180" />
+        <violeta H="155" S="75" V="105" />
+    </perfil-color>
+    <carbeto name="carbeto1" puerto="29">
+        <adelante motorA="80" motorB="80" time="1000" />
+        <vueltaLeft motorA="80" motorB="80" time="1000" />
+        <vueltaRight motorA="80" motorB="80" time="1050" />
+    </carbeto>
+    <carbeto name="carbeto2" puerto="1">
+        <adelante motorA="62" motorB="62" time="102" />
+        <vueltaLeft motorA="0" motorB="0" time="101" />
+        <vueltaRight motorA="60" motorB="60" time="100" />
+    </carbeto>
+    <carbeto name="carbeto3" puerto="25">
+        <adelante motorA="69" motorB="6" time="500" />
+        <vueltaLeft motorA="6" motorB="6" time="50" />
+        <vueltaRight motorA="6" motorB="6" time="500" />
+    </carbeto>
+</data>
