@@ -23,8 +23,7 @@ Habrá 6 mesas en las que a cada pareja se les mostrará una infoguifía, al ter
 
 Finalmente se dará un cierre afianzando el aprendizaje y las posibilidades mostradas y al ganador de la ronda se le entregará un premio (Sticker, Post-It, USB o el material que se proporcione para repartir)
 
-## Contribuyentes
-
+## Colaboradores
 - nosotros
 
 ## License
